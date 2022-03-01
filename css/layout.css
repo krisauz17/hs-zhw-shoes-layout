@@ -24,4 +24,35 @@
 
 /* Positioning Classes */
 
+.border_right {
+  float: left;
+}
 
+.fb {
+  float:left;
+  width: 73%;
+}
+
+.archive {
+  float:right;
+  width: 23%;
+  padding-left: 20px;
+}
+
+.one {
+  margin: 5px;
+  float: left;
+  width: 32%;
+}
+
+.two {
+  margin: 5px;
+  float:right;
+  width: 32%;
+}
+
+.three {
+  margin: 5px;
+  float: left;
+  width: 32%;
+}
